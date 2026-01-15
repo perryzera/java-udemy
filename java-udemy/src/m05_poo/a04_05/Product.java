@@ -1,5 +1,5 @@
 
-package m05_poo.a4;
+package m05_poo.a04_05;
 
 public class Product {
 
