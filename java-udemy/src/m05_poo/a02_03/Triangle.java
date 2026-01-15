@@ -1,4 +1,4 @@
-package m05_poo.a02;
+package m05_poo.a02_03;
 
 public class Triangle {
 

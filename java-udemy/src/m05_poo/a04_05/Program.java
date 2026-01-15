@@ -1,4 +1,4 @@
-package m05_poo.a4;
+package m05_poo.a04_05;
 
 import java.util.Locale;
 import java.util.Scanner;

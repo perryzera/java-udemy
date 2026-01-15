@@ -20,7 +20,7 @@ public class a01_problema_sem_poo {
         double p_x = (a + b + c) / 2;
         double area_x = Math.sqrt(p_x*(p_x-a)*(p_x-b)*(p_x-c));
 
-        double p_y = (a + b + c) / 2;
+        double p_y = (d + e + f) / 2;
         double area_y = Math.sqrt(p_y*(p_y-d)*(p_y-e)*(p_y-f));
 
         System.out.printf("Triangle X area: %.4f%n", area_x);

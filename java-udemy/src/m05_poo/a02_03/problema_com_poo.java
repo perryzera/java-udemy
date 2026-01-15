@@ -1,7 +1,7 @@
-package m05_poo.a02;
+package m05_poo.a02_03;
 import java.util.Scanner;
 
-public class a02_problema_com_poo {
+public class problema_com_poo {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
