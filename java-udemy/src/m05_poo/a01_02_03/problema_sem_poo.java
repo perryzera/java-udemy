@@ -1,9 +1,8 @@
-package m05_poo;
+package m05_poo.a01_02_03;
 
-import java.util.Locale;
 import java.util.Scanner;
 
-public class a01_problema_sem_poo {
+public class problema_sem_poo {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
